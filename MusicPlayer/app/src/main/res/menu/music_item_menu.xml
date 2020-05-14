@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/play_music_item" android:title="@string/play_music"/>
+    <item android:id="@+id/music_info_item" android:title="@string/music_info"/>
+    <item android:id="@+id/delete_music_item" android:title="@string/delete_music"/>
+</menu>
